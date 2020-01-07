@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/SonarSource/sonarqube.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://xiao.han@git.sumscope.com:7990/scm/id/idbbondserverjava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Coding\Java\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\Projects\idb" />
   </component>
 </application>

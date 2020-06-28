@@ -18,6 +18,10 @@
           <option name="url" value="http://xiao.han@git.sumscope.com:7990/scm/qb/qbwebserver.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://116.63.57.130:8991" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\qb" />

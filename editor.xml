@@ -6,6 +6,7 @@
     <option name="FONT_SIZE" value="20" />
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.0" />
+    <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
   <component name="InlayHintsSettings">

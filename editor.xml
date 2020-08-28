@@ -3,7 +3,7 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="USE_LIGATURES" value="true" />

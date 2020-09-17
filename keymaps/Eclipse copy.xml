@@ -1,5 +1,12 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="QuickActionPopup">
+    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
 </keymap>

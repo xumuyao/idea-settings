@@ -561,7 +561,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="70a0a" />
+        <option name="BACKGROUND" value="4de229" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
